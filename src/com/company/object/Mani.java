@@ -28,5 +28,6 @@ public class Mani {
         System.out.println(sin.toString());
         System.out.println(doch.toString());
         System.out.println(doch2.toString());
+        System.out.println(doch2.toString());
     }
 }
