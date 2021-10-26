@@ -18,6 +18,7 @@ public class Mani {
         Human mama = new Human("Nastya",false,46,baba2,ded2);
         Human sin = new Human("Lesha",true,26,mama,papa);
         Human doch = new Human("Olya",false,24,mama,papa);
+        Human doch2 = new Human("Polya",false,24,mama,papa);
         System.out.println(ded1.toString());
         System.out.println(baba1.toString());
         System.out.println(ded2.toString());
@@ -26,5 +27,6 @@ public class Mani {
         System.out.println(mama.toString());
         System.out.println(sin.toString());
         System.out.println(doch.toString());
+        System.out.println(doch2.toString());
     }
 }
